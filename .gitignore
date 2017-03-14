@@ -1,0 +1,15 @@
+.idea
+.iml
+local.properties
+
+.gradle
+
+# Eclipse project files
+
+.project
+
+.settings/	
+
+.classpath
+
+/build

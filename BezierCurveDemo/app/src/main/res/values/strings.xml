@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BezierCurveDemo</string>
+
+    <string name="operate_title">功能面板</string>
+    <string name="btn_text_clear">清空</string>
+    <string name="btn_text_goback">撤销</string>
+    <string name="hint_color_path">输入六位线条颜色</string>
+    <string name="hint_color_point">输入六位点颜色值</string>
+</resources>
